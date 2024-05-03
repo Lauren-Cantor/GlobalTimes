@@ -1,0 +1,18 @@
+body {
+    background-color: #f5daa4; 
+}
+.article__content {
+    font-size: 30px; 
+}
+
+.header__title {
+    color: #ae694e; 
+}
+p {
+    color: rgb(251, 249, 249);
+}
+.noticia4 {
+    background-image: url('img/moscos.jpg');
+    background-size: cover;
+    background-position: center;
+  }

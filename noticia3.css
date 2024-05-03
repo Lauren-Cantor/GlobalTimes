@@ -1,0 +1,18 @@
+body {
+    background-color: #eef5a4; 
+}
+.article__content {
+    font-size: 30px; 
+}
+
+.header__title {
+    color: #f65f23; 
+}
+p {
+    color: rgb(251, 249, 249);
+}
+.noticia3 {
+    background-image: url('img/horapla.jpg');
+    background-size: cover; 
+    background-position: center; 
+  }

@@ -1,0 +1,18 @@
+body {
+    background-color: #b8c1ff; 
+}
+.article__content {
+    font-size: 30px; 
+}
+
+.header__title {
+    color: #f65f23; 
+}
+p {
+    color: rgb(251, 249, 249);
+}
+.noticia2 {
+    background-image: url('img/sol.jpg');
+    background-size: cover;
+    background-position: center;
+  }
