@@ -237,28 +237,28 @@ footer img {
 
 
 .fondo-articulo-1 {
-  background-image: url('img/dragon.jpg'); 
+  background-image: url('dragon.jpg'); 
   background-size: cover; 
   background-position: center; 
 }
 
 
 .fondo-articulo-2 {
-  background-image: url('img/sol.jpg');
+  background-image: url('sol.jpg');
   background-size: cover;
   background-position: center;
 }
 
 
 .fondo-articulo-3 {
-  background-image: url('img/horapla.jpg');
+  background-image: url('horapla.jpg');
   background-size: cover;
   background-position: center;
 }
 
 
 .fondo-articulo-4 {
-  background-image: url('img/moscos.jpg');
+  background-image: url('moscos.jpg');
   background-size: cover;
   background-position: center;
 }
